@@ -26,16 +26,16 @@ int readPin(int pinNo);
 
 /**
  * @breif Set pin as output
- * @para pinNo is the pin set as output 
+ * @para pinNo is the pin set as output
  */
 void setPinToOutput(int pinNo);
 
 /**
  * @breif Set pin as input
- * @para pinNo is the pin set as input 
+ * @para pinNo is the pin set as input
  */
- void setPinToinput(int pinNo);
- 
- 
- 
+ void setPinToInput(int pinNo);
+
+
+
 #endif // Signal_H
